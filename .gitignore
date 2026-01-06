@@ -2,3 +2,6 @@
 Voxy/chatrooms/script.js
 Voxy/chatrooms/script.js
 *.pyc
+
+.DS_Store
+.vscode
